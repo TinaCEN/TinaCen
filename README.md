@@ -1,96 +1,133 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CEN%20SITIAN&fontAlign=50&fontAlignY=40&color=0:111111,100:3a3a3a&fontColor=ffffff&desc=AI%20Visual%20Creative%20%20%C2%B7%20%20Interaction%20Designer%20%20%C2%B7%20%20Future%20Narratives&descAlign=50&descAlignY=60" />
-</p>
-
-<h3 align="center">Building speculative experiences at the intersection of AI, identity, and interaction.</h3>
+<h1 align="center">Cen Sitian</h1>
 
 <p align="center">
-  <a href="https://censitian.cargo.site/">Portfolio</a> ·
-  <a href="mailto:your-email@example.com">Email</a> ·
-  <a href="https://github.com/TinaCEN">GitHub</a>
+  <b>Product Experience Designer | AI Visual Creative | Interaction Designer | Design System Explorer</b>
+</p>
+
+<p align="center">
+  MSc in Innovative Multimedia Entertainment, The Hong Kong Polytechnic University |  
+  BFA in Visual Communication Design, China Academy of Art
+</p>
+
+<p align="center">
+  <a href="https://github.com/TinaCEN">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Phone-00C896?style=for-the-badge&logo=googlemessages&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5C8A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About / 关于我
+# 📊 Core Capabilities
 
-I am a multidisciplinary designer currently studying **Innovative Multimedia Entertainment** at **The Hong Kong Polytechnic University**.
+## 🎨 Design
 
-My practice combines **AI visual art, interaction design, speculative design, and digital storytelling**.  
-I am especially interested in how technology reshapes **identity, emotion, ethics, and future human experience**.
-
-我目前在香港理工大学攻读 **Innovative Multimedia Entertainment** 硕士。  
-我的创作关注 **AI 视觉、交互设计、思辨设计与数字叙事**，尤其关心技术如何改变 **身份、情感、伦理与未来的人类体验**。
-
----
-
-## Focus
-
-- AI visual storytelling
-- Human-AI interaction
-- Speculative design systems
-- Digital identity and future narratives
-- Creative coding for interactive experiences
-
-## Current Focus
-
-- Motion capture and real-time interactive installation
-- AI-generated moving image and interface aesthetics
-- Portfolio-driven creative technology projects
-- Design workflows between concept, prototype, and visual output
-
----
-
-## Selected Projects
-
-### Human Pro
-An interactive installation in which the audience controls a digital avatar until control gradually shifts back to the system.
-
-### City Gardens
-A speculative service design project combining AR flowers, emotional urban experience, and digital commerce.
-
-### Cosmic Horoscope
-An educational and immersive project translating Chinese and Western astrology into spatial and interface-based storytelling.
-
-### AI Visual Experiments
-A series of AI-generated short films, visual systems, and narrative image explorations rooted in future imaginaries.
-
----
-
-## Capabilities / System Tags
-
-### Concept & Design
 <p>
-  <img src="https://img.shields.io/badge/Speculative%20Design-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interaction%20Design-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visual%20Narratives-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Research-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Service%20Design-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20Design-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Design-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20System-A8E6CF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Interactive%20Design-FF8C94?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brand%20Design-B39DDB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Design-FFD3E0?style=for-the-badge&logoColor=black" />
 </p>
 
-### AI & Creative Tech
+## 🧰 Design Tools
+
 <p>
-  <img src="https://img.shields.io/badge/AI%20Creative%20Systems-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AIGC%20Workflows-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Human--AI%20Interface-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative%20Coding-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interactive%20Media-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-8E24AA?style=flat-square&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-1976D2?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9800?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-7E57C2?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/ProtoPie-22C55E?style=flat-square&logoColor=white" />
 </p>
 
-### Tools
+## 🤖 AI & Creative Tools
+
 <p>
-  <img src="https://img.shields.io/badge/TouchDesigner-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/After%20Effects-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Midjourney-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Runway-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Midjourney-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/AIGC%20Design-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Runway-06B6D4?style=flat-square" />
+</p>
+
+## 💬 Coding & Development
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-FF7043?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1976D2?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-38BDF8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4F86C6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## 🔗 Methodology
+
+<p>
+  <img src="https://img.shields.io/badge/User%20Research-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/User%20Testing-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Thinking-A8E6CF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile-FF8A65?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project%20Management-C084FC?style=flat-square" />
 </p>
 
 ---
 
-## Background
+# 💖 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎯 Soulnote · AI Emotional Journaling App
+An AI-driven journaling experience for emotional reflection and mental wellness.  
+Focused on AI-assisted UX scenarios, conversational workflows, and user-centered interaction design.
+
+<img src="https://img.shields.io/badge/Product%20Design-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20UX-A855F7?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ CityLife · Innovative Flower Brand
+A commercial innovation project for an urban flower retail brand.  
+Led VIS system design, branding strategy, and user experience optimization.
+
+<img src="https://img.shields.io/badge/Brand%20Design-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/UX%20Research-FF8C94?style=flat-square" />
+
+</td>
+  </tr>
+</table>
+
+### 🤖 Human Pro
+An interactive installation exploring AI ethics, privacy, and digital identity through avatar control, motion capture, and speculative system design.
+
+<img src="https://img.shields.io/badge/Interactive%20Installation-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital%20Identity-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Ethics-EC4899?style=flat-square" />
+
+### 🌌 Cosmic Horoscope
+An educational and immersive experience comparing Chinese and Western astrology through infographic systems, spatial storytelling, and interface design.
+
+<img src="https://img.shields.io/badge/Visual%20Narrative-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Experience%20Design-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/Speculative%20Storytelling-F97316?style=flat-square" />
+
+---
+
+# 🏫 Education
 
 - **MSc in Innovative Multimedia Entertainment**  
   The Hong Kong Polytechnic University
@@ -100,29 +137,26 @@ A series of AI-generated short films, visual systems, and narrative image explor
 
 ---
 
-## Signals
+# 🏆 Awards & Recognition
 
 - Zhejiang Provincial Government Scholarship
-- D20 Future Youth
 - Global Design Competition – Second Prize
 - Global Public Welfare Ambassador Certificate
+- D20 Future Youth
 - ASEAN Youth Leader Summit Participant
 
 ---
 
-## GitHub Stats
+# 🌐 Contact
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TinaCEN&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinaCEN&layout=compact&theme=transparent" />
+  <a href="https://github.com/TinaCEN">
+    <img src="https://img.shields.io/badge/GitHub-TinaCEN-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Works-FF5C8A?style=for-the-badge" />
+  </a>
 </p>
-
----
-
-## Contact
-
-- Portfolio: `https://censitian.cargo.site/`
-- Email: `your-email@example.com`
-
-> Design is not just about visuals.  
-> It is about shaping future experiences through systems, stories, and technology.
